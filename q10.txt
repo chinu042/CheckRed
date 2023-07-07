@@ -1,0 +1,6 @@
+1) If bamaozn using something like kuubernetes then they can configure instance such that they'll auto restart themselves after terminating unexpectedly.
+There might be some mechanism for storing the states for a specfic point, so that the new instance which was created to fix the crashed one,will have the state of the crashed instance.
+There definately should be some monitoring tools with the help of them we can check the how the system is running wether it is running perfectly or not.
+We can use ELK stack kind of thing.
+There should be some rules and policies in which some trigger points must have mentioned if in case system or bemazon service reaches to that trigger point then it should automaticaly regular maintainance and updation should be done.
+By following above few points we can handle the issue. 
