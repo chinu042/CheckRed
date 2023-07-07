@@ -1,0 +1,2 @@
+cp <your config file name> /etc/nginx/sites-available
+ln -s /etc/nginx/sites-available/<your config file name> /etc/nginx/sites-enabled/
