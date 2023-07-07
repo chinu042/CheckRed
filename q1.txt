@@ -1,0 +1,4 @@
+we can monitor load balance and free memory of system resource or service using "top" and "free" commands.
+In case of chipcart we can set a trigger pointer for free memory if it hits that perticular trigger then we get to know that how much time we left to scale the infrastructure.
+And to get the average load and free memory we can use nginx service.
+
