@@ -1,0 +1,2 @@
+netstat -tuln |grep <port number>
+kill <process id>
