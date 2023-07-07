@@ -1,0 +1,3 @@
+mkdir f1 && cd f1 && touch file{1..100}.txt 
+mkdir -p p1/p2/{p4,p5}/p6/p7
+find f1 -type f,d -exec chmod 400 {} + && chown -R root:root f1/
