@@ -1,4 +1,3 @@
-# CheckRed
 # Server Management Tasks
 
 This repository contains solutions to various server management tasks.
